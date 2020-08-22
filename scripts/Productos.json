@@ -1,0 +1,26 @@
+[
+  {
+    "Nombre" : "Pasta de tomate",
+    "ID_Producto" : 1,
+    "Precio" : 10.5,
+    "Cantidad" : 2
+  },
+  {
+    "Nombre" : "Azucar",
+    "ID_Producto" : 2,
+    "Precio" : 25,
+    "Cantidad" : 1
+  },
+  {
+    "Nombre" : "Sal",
+    "ID_Producto" : 3,
+    "Precio" : 1.50,
+    "Cantidad" : 5
+  },
+  {
+    "Nombre" : "Coca-Cola",
+    "ID_Producto" : 3,
+    "Precio" : 20,
+    "Cantidad" : 2
+  }
+]

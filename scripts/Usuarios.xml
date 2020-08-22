@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sistema>
+    <usuario id="1">
+        <nombre>Eduardo</nombre>
+        <apellido>Ixen</apellido>
+        <nombreUsuario>EdIxen</nombreUsuario>
+        <contrasenia>asd123</contrasenia>
+    </usuario>
+    <usuario id="2">
+        <nombre>Tomas</nombre>
+        <apellido>Rucuch</apellido>
+        <nombreUsuario>TomRuc</nombreUsuario>
+        <contrasenia>12345</contrasenia>
+    </usuario>
+        <usuario id="3">
+        <nombre>Luis</nombre>
+        <apellido>Perez</apellido>
+        <nombreUsuario>Lsper</nombreUsuario>
+        <contrasenia>aaa111bbb</contrasenia>
+    </usuario>
+        <usuario id="4">
+        <nombre>Juan</nombre>
+        <apellido>Lopez</apellido>
+        <nombreUsuario>Jlpz</nombreUsuario>
+        <contrasenia>juanlo</contrasenia>
+    </usuario>
+</sistema>
